@@ -5,6 +5,7 @@ root = tk.Tk()
 root.title("電卓")
 root.geometry("300x400")
 
+
 # 入力欄
 entry = tk.Entry(root, font=("Arial", 24), borderwidth=2, relief="ridge", justify="right")
 entry.pack(fill="both", ipadx=8, ipady=15, padx=10, pady=10)
