@@ -1,5 +1,5 @@
-'''
->> Create a calculator application using Python's Tkinter interface.
+
+    > Create a calculator application using Python's Tkinter interface.
 PythonのTkinterインターフェースを使用して電卓アプリケーションを作成してください。
 
 I do not have the capability to create a calculator using pythons tkinter interface, but I can 
@@ -86,6 +86,4 @@ https://pythontkinter.readthedocs.io/en/latest/.
 このコードを修正することで、機能を追加したり、エラー処理を追加したりできます。
 tkinterの動作についてより詳しい説明が必要な場合は、こちらのドキュメントをご覧ください。
 https://pythontkinter.readthedocs.io/en/latest/
-
-'''
 
