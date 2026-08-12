@@ -99,7 +99,7 @@ for i in range(5):
     root.grid_rowconfigure(i, weight=1)
 
 root.mainloop()
-
+# 
 ### 説明
 ##1. **Tkinterの初期化**: `tk.Tk()`でウィンドウを作成し、タイトルを設定します。
 ##2. **表示領域**: `Entry`ウィジェットで入力と結果を表示します。
