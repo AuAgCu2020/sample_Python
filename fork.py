@@ -1,3 +1,5 @@
+# コメント挿入
+
 import os
 import time
 
